@@ -1,5 +1,5 @@
 # myrepo
 this is a line
 
-![selfie](https://www.facebook.com/photo.php?fbid=453746491629507&l=a93b9b4f11)
-:sparkles:
+![selfie](https://github.com/zczhu1995/myrepo/blob/master/WTH.png?raw=true)
+:stuck_out_tongue_winking_eye:
